@@ -42,7 +42,7 @@
 .food{
     background: linear-gradient(rgb(248, 20, 12), rgb(85, 70, 224));    
     border: .25vmin solid black;
-    border-radius: 9px;
+    border-radius: 30px;
     
 }
 #scoreBox{
